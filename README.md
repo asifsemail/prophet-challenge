@@ -76,7 +76,7 @@ Build a forecasting model using Prophet to predict future trends in search traff
 ## Usage
 
 	1.	Clone this repository and navigate to the project directory.
-	2.	Load the Jupyter Notebook Prophet_Forecast.ipynb.
+	2.	Load the Jupyter Notebook forecasting_net_prophet.ipynb.
 	3.	Run each cell step-by-step to reproduce the analysis, visualizations, and forecasts.
 	4.	Review each section to understand the data trends and forecasted results.
 
